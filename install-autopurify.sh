@@ -7,7 +7,7 @@ RED="\e[31m"
 RESET="\e[0m"
 
 # === Configuration ===
-BLACKLIST_URL="https://raw.githubusercontent.com/smyazdanp/autopurify/main/AutoPurify-Blocklist"
+BLACKLIST_URL="https://raw.githubusercontent.com/smyazdanp/autopurify/main/AutoPurify-Blocklist.txt"
 HOSTS_FILE="/etc/hosts"
 BACKUP_FILE="/etc/hosts.backup"
 TEMP_FILE="/tmp/autopurify-temp"
